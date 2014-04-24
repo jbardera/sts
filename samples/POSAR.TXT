@@ -1,3 +1,0 @@
-if ((((unsigned char)nom_user[i]<65)
-&& ((unsigned char)nom_user[i]<48)||((unsigned char)nom_user[i])>57))
-|| ((unsigned char)nom_user[i]>127)) nom_user[i]='_';
